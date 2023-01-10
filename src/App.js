@@ -1,7 +1,7 @@
 import './App.css';
 import HelloWorld from './components/HelloWorld';
 import SayMyNmae from './components/SayMyName';
-import Pessoa from './components/Pessoal';
+import Pessoa from './components/Pessoa';
 
 function App() {
  
