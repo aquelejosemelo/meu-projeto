@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Projeto
+Este projeto é o resultado do acompanhamento do tutorial de React do canal `Hora de Codar`. 
+(https://www.youtube.com/watch?v=FXqX7oof0I4&t=368s).
+
 ## Available Scripts
 
 In the project directory, you can run:
